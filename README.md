@@ -6,8 +6,8 @@ In this project, we built 3 websites:\
 3 Todo website
 
 React Fundamentals:\
-1.1. Fragments\
-1.2. Separating JavaScript and JSX
+1.1 Fragments\
+1.2 Separating JavaScript and JSX
 
 2 Working With Data\
 2.1 Passing Data With Props\
