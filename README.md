@@ -1,9 +1,9 @@
 In this project, we have practiced and executed fundamentals of React to get some hands-on experience with Class based components and functional components of React and many other fundamentals listed below. 
 
 In this project, we built 3 websites:
-1 General News Website - Getting data using news api
-2 Weather website - Getting live weather using weather api
-3 Todo website
+1. General News Website - Getting data using news api
+2. Weather website - Getting live weather using weather api
+3. Todo website
 
 React Fundamentals:
 1.1 Fragments
