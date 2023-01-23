@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+In this project, we have practiced and executed fundamentals of React to get some hands-on experience with Class based components and functional components of React and many other fundamentals listed below. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, we built 3 websites:
+1 General News Website - Getting data using news api
+2 Weather website - Getting live weather using weather api
+3 Todo website
 
-## Available Scripts
+React Fundamentals:
+1.1 Fragments
+1.2. Separating JavaScript and JSX
 
-In the project directory, you can run:
+2 Working With Data
+2.1 Passing Data With Props
+2.2 Validating Props
+2.3 Providing Default Prop Values
+2.4 Getting Started With State
+2.5 Handling DOM Events
+2.6 Writing Components as Classes
+2.7 Using Controlled Inputs
+2.8 Lifting State and Custom Events
+2.9 Using Uncontrolled Inputs
 
-### `npm start`
+3 Styling Components
+3.1 Styling With Inline Styles
+3.2 Using CSS Modules
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+4 Working With External Data
+4.1 Preparing the Weather Widget
+4.2 Handling Side Effects in Class Components
+4.3 Using the Effects Hook in Function Components
+4.4 Making Requests in Our Components
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+5 Building Single-Page Applications
+5.1 Introducing React Routing
+5.2 Using Layouts and Defining Nested Routes
+5.3 Using Route Parameters
+5.4 Using Side Effects in Router Pages
